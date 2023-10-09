@@ -12,7 +12,8 @@ Welcome to my world of code and amazing projects! I'm **Guilherme Felippe**, a t
 ## Favorite Technologies 💻
 
   - 🌐 Web development with
-    ![CSS3 Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+    <br/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3 Icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="60"/>
   - 📱 Mobile apps with [your favorite technologies like Flutter, React Native, etc.].
   - 🤖 Artificial Intelligence and Machine Learning.
   - 📊 Data analysis with [your favorite tools like Python, R, etc.].
