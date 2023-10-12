@@ -5,7 +5,7 @@ Welcome to my world of code and amazing projects! I'm **Guilherme Felippe**, a t
 ## About Me 🚀
 
   - 🌱 I'm constantly learning and improving in my favorite technologies.
-  - 💡 I have a special love for AI and and building robust Back-End systems.
+  - 💡 I have a special love for AI and building robust Back-End systems.
   - 🎓I'm working towards completing my Information Technology degree.
   - 💬 Let's exchange ideas and discuss interesting projects!
 
